@@ -51,10 +51,18 @@ try {
 }
 ```
 
+## Test
+
+Run tests:
+
+```bash
+npm run test
+```
+
 ## Contributing
 
 All contributions, issues and feature requests are welcome!<br>
-Feel free to check [issues page](https://github.com/mazecodes/damnerror/issues).
+Please feel free to check [issues page](https://github.com/mazecodes/damnerror/issues).
 
 1. Fork the project
 1. Create your feature branch (`git checkout -b feature/AwesomeFeature`)
