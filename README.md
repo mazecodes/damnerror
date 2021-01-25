@@ -25,14 +25,6 @@ GitHub:
 git clone https://github.com/mazecodes/damnerror.git
 ```
 
-## Test
-
-Run tests:
-
-```bash
-npm run test
-```
-
 ## Usage
 
 Wanna throw a table? I got you:
@@ -57,6 +49,12 @@ try {
 } catch (err) {
   console.log(err.message); // ૮( ᵒ̌▱๋ᵒ̌ )ა PASSWORD IS WRONG!!!
 }
+```
+
+## Run tests
+
+```bash
+npm run test
 ```
 
 ## Contributing
