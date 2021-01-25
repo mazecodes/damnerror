@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/mazecodes/damnerror/master/assets/throw-table.gif" alt="Throw table gif!">
   <h1>Damn Error</h1>
   <p><i>Express your feelings while throwing damn errors!</i></p>
 </div><br>
