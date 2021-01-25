@@ -5,7 +5,7 @@
 
 This package is production ready and has 100% test coverage so don't hesitate to use it in an enterprise application. Yeah... that would be fun!
 
-## Installation
+## Install
 
 npm:
 
@@ -23,6 +23,14 @@ GitHub:
 
 ```bash
 git clone https://github.com/mazecodes/damnerror.git
+```
+
+## Test
+
+Run tests:
+
+```bash
+npm run test
 ```
 
 ## Usage
@@ -49,14 +57,6 @@ try {
 } catch (err) {
   console.log(err.message); // ૮( ᵒ̌▱๋ᵒ̌ )ა PASSWORD IS WRONG!!!
 }
-```
-
-## Test
-
-Run tests:
-
-```bash
-npm run test
 ```
 
 ## Contributing
