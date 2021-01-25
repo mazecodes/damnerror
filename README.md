@@ -78,7 +78,7 @@ Maze Peterson:
 
 ## Show your support
 
-Give a ⭐ if you likes this project.
+Give a ⭐ if you liked this project!
 
 ## License
 
