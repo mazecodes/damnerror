@@ -9,7 +9,7 @@
  *   getRandomNumber(0, 10) // 6
  */
 const getRandomNumber = (min, max) => {
-  const randomNumber = Math.floor(Math.random * (max - min)) + min;
+  const randomNumber = Math.floor(Math.random() * (max - min)) + min;
 
   return randomNumber;
 };
