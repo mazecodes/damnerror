@@ -1,6 +1,6 @@
 {
   "name": "damnerror",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Express your feelings while throwing damn errors!",
   "main": "src/index.js",
   "scripts": {
@@ -13,7 +13,7 @@
     "url": "git+https://github.com/mazecodes/damnerror.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Maze Peterson",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mazecodes/damnerror/issues"
