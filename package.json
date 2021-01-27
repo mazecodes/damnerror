@@ -12,7 +12,14 @@
     "type": "git",
     "url": "git+https://github.com/mazecodes/damnerror.git"
   },
-  "keywords": [],
+  "keywords": [
+    "damn",
+    "error",
+    "damnerror",
+    "throw",
+    "exception",
+    "catch"
+  ],
   "author": "Maze Peterson",
   "license": "MIT",
   "bugs": {
