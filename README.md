@@ -6,6 +6,16 @@
 
 This package is production ready and has 100% test coverage so don't hesitate to use it in an enterprise application. Yeah... that would be fun!
 
+## Tables of Contents
+
+- [Install](#install)
+- [Usage](#usage)
+- [Tests](#run-tests)
+- [Contributing](#contributing)
+- [Author](#author)
+- [Support](#show-your-support)
+- [License](#license)
+
 ## Install
 
 npm:
