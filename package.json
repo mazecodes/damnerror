@@ -1,6 +1,6 @@
 {
   "name": "damnerror",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "description": "Express your feelings while throwing damn errors!",
   "main": "src/index.js",
   "scripts": {
