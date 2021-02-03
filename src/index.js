@@ -5,7 +5,7 @@ class DamnError extends Error {
     super(message, ...args);
 
     this.name = getErrorName();
-    this.message = getErrorMessage();
+    this.message = getErrorMessage(message);
   }
 }
 
